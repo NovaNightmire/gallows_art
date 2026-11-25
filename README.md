@@ -9,7 +9,8 @@ The panel loads these images through jsDelivr, pinned to a commit, e.g.
 ## Folders
 | Folder | Contents |
 |---|---|
-| `logos/` | Race logos (`human`, `witch`, `vampire`, `oni`, `ghost`) and the Gallows medallion — panel-sized WebP |
+| `logos/` | Race logos (`human`, `witch`, `vampire`, `oni`, `ghost`) and the Gallows seal (`gallows`) — panel-sized WebP.
+  `gallows-512.png` is for uploading to Second Life as the HUD icon texture. |
 | `logos/source/` | Original full-size uploads |
 | `frames/` | Metal frames, plates, buttons (later) |
 | `backgrounds/` | Panel and race backdrops (later) |
